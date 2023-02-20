@@ -1,0 +1,13 @@
+git clone https://github.com/polarapu/batch87.git
+ls
+cd batch87
+ls
+touch prasad
+ls
+git add prasad
+git status
+git commit -m "sample commit from prasad"
+git status
+git push
+git pull --rebase
+git push
